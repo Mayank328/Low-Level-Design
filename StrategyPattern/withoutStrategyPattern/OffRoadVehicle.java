@@ -1,4 +1,4 @@
-package withoutStrategyPattern;
+package StrategyPattern.withoutStrategyPattern;
 
 public class OffRoadVehicle extends Vehicle{
 

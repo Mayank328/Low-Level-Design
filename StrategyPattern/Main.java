@@ -1,4 +1,4 @@
-package withStrategyPattern;
+package StrategyPattern;
 
 public class Main {
 
