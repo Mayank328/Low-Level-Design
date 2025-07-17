@@ -2,7 +2,6 @@ package AdapterPattern.Client;
 
 import AdapterPattern.Adapter.WeightMachineAdapter;
 import AdapterPattern.Adapter.WeightMachineAdapterImpl;
-import AdapterPattern.Adaptee.WeightMachine;
 import AdapterPattern.Adaptee.WeightMachineForBabies;
 
 public class Main {
